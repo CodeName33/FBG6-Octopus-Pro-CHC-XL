@@ -29,5 +29,6 @@
  * LED light - FAN3 (Switch VFAN to LEDs voltage, built in LEDs are 5v)
  * Electronics fan (120mm FAN) - FAN2 (Switch VFAN to 12v)
  * 3D Touch - PROBE
+![](images/octopus.jpg)
 
 (will be updated soon...)
