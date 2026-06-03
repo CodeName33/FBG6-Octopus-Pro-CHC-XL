@@ -13,6 +13,7 @@
  * 3D Touch [images/3dtouch.jpg](images/3dtouch.jpg)
  * 120mm FAN (PC FAN)
  * LEDS (or use Built in)
+ * Any Pi computer (Oprange Pi, Raspberry Pi, etc. I use Orange Pi Zero 3)
 
 ## Connection
  * X - MOTOR0
@@ -29,6 +30,16 @@
  * LED light - FAN3 (Switch VFAN to LEDs voltage, built in LEDs are 5v)
  * Electronics fan (120mm FAN) - FAN2 (Switch VFAN to 12v)
  * 3D Touch - PROBE
+ * Pi to Octopus - (RX-TX, TX-RX, 5V-5V, GND-GND)
 ![](images/octopus.jpg)
 
+## Folders
+ * **images** - Just images
+ * **drawings** - Drawings for some parts
+ * **configs** - Klipper configs
+ * **models** - 3d models for print (**stable** - stable models)
+
+## Print
+ 1. Print "**Head VXX.stl**" from models/stable (Split it in slicer, yeah it's will be hard to print Head V1.0 bottom part)
+ 2. Screen not used, so panel named **screen-place.stl** can be used
 (will be updated soon...)
