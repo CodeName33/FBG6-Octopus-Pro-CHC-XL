@@ -42,4 +42,5 @@
 ## Print
  1. Print "**Head VXX.stl**" from models/stable (Split it in slicer, yeah it's will be hard to print Head V1.0 bottom part)
  2. Screen not used, so panel named **screen-place.stl** can be used
+
 (will be updated soon...)
