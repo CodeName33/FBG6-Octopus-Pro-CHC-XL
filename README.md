@@ -40,7 +40,7 @@
  * **models** - 3d models for print (**stable** - stable models)
 
 ## Print
- 1. Print "**Head VXX.stl**" from models/stable (Split it in slicer, yeah it's will be hard to print Head V1.0 bottom part)
+ 1. Print "**Head VXX.stl**" from models/stable (Split it in slicer, yeah it's will be hard to print Head V1.0 bottom part). (Feeder made by Dmitry Sorkin from project Vostok)
  2. Screen not used, so panel named **screen-place.stl** can be used
 
 (will be updated soon...)
